@@ -1,4 +1,4 @@
-# nbalayer
+# nba_package
 
 This is a package I created for the course GR5072 Introduction to Data Structure. 
 
